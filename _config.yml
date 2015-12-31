@@ -1,0 +1,28 @@
+name: Sniff Lick Bark
+favicon: null
+layout_spectrum: 0.9116511326283216
+typography_spectrum: 0.34357563545927405
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.25204574852250516
+  lightness: 0.7082005164120346
+  saturation: 0.8429130807053298
+  rhythmicContrast: 0.7059015859849751
+purpose: []
