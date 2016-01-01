@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Sniff Lick Bark]]></title>
         <description><![CDATA[Sniff Lick Bark]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/sniff-lick-bark/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Jan 2016 00:02:33 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 01 Jan 2016 00:11:07 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sniff-lick-bark/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Now]]></title>
             <description><![CDATA[<article><h1>Now</h1><p>Sniff Lick Bark has just been born!</p></article>]]></description>
-            <link>undefinednow/index.html</link>
+            <link>https://thegrid.ai/sniff-lick-bark/now/index.html</link>
             <guid isPermaLink="false">219af9c4-ed21-42f1-9799-11d7e4bf1924</guid>
-            <pubDate>Fri, 01 Jan 2016 00:02:32 GMT</pubDate>
+            <pubDate>Fri, 01 Jan 2016 00:10:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
